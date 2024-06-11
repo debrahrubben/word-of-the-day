@@ -1,7 +1,0 @@
-{
-  "name": "myWordApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
