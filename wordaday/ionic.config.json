@@ -1,0 +1,7 @@
+{
+  "name": "wordaday",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
